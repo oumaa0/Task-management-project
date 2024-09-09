@@ -1,0 +1,31 @@
+body {
+  background-color: lightblue;
+ 
+}
+
+h3 {
+  color: black;
+  text-align: center;
+}
+
+button {
+  padding: 0.8%;
+  background-color: rgb(101, 232, 249);
+
+}
+input {
+  text-align: center;
+  background-color: lightblue;
+  display: grid ;
+
+
+}
+p {
+  color: white;
+  background-color: blue;
+  margin-top: 10% ;
+  padding-top: 3%;
+  padding-left: 12%;
+  padding-right: 12%;
+  padding-bottom: 3%;
+}
